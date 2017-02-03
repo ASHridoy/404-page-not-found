@@ -77,9 +77,9 @@ header,footer{
     color: #fff;
     text-transform: uppercase;
     box-shadow: 0 10px 0 #c17413;
-    transition: all 0.2s ease-in;
-    -webkit-transition: all 0.2s ease-in;
-    -moz-transition: all 0.2s ease-in;
+    transition: all 0.2s ease;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
 }
 .page-not-found ul li:last-child a{
     position: absolute;
@@ -97,12 +97,12 @@ header,footer{
     color: #fff;
     text-transform: uppercase;
     box-shadow: 0 10px 0 #c17413;
-    transition: all 0.2s ease-in;
-    -webkit-transition: all 0.2s ease-in;
-    -moz-transition: all 0.2s ease-in;
+    transition: all 0.2s ease;
+    -webkit-transition: all 0.2s ease;
+    -moz-transition: all 0.2s ease;
 }
 .page-not-found ul li a:hover{
-    background: #8a6a43;
+    background: #A2A1A3;
 }
 
 .page-not-found-img{
