@@ -102,7 +102,7 @@ header,footer{
     -moz-transition: all 0.2s ease-in;
 }
 .page-not-found ul li a:hover{
-    color: #c17413;
+    background: #8a6a43;
 }
 
 .page-not-found-img{
